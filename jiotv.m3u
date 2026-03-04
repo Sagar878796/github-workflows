@@ -1,3 +1,7 @@
+
+#EXTINF:-1 group-title="Cricket",Event 2 hindi
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
+https://mix.drmlive.net/mix/star-2.m3u8?audio=hin
 #EXTM3U
 #EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_medium.jpg" ,Star Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
