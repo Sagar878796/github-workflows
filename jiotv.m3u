@@ -1,7 +1,6 @@
 
-#EXTINF:-1 group-title="Cricket",Event 2 hindi
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
-https://mix.drmlive.net/mix/star-2.m3u8?audio=hin
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="SONY",Sony SAB (720p)
+http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_medium.jpg" ,Star Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
