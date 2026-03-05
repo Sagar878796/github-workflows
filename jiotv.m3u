@@ -5738,3 +5738,137 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Prarthana_Life_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1772569507~exp=1772655907~acl=/*~hmac=392bc917ffad0d4d27c61d8617c3dd3732ff28187ea1174ec88610955112a26c"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Anjan_TV_BTS/output/index.mpd
+#EXTM3U
+
+#EXTINF:-1 group-title="Hollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/aed282982e6f4f5471a5088e0fc8f4c4/en/2x3/320x480/test_pic1755066882415.webp",Demi-Gods And Semi-Devils
+https://d3sgzbosmwirao.cloudfront.net/video/b2958710c7bb769a9ea23232d2a279008b746afe40b98819eb339bf22549b5d8/1/hls/h264_high.m3u8
+
+
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f689370a67d56c3f12c3ce8a484950be/en/16x9/640x360/test_pic1766745223409.webp",Thiruchitrambalam
+https://d3s0ximcru5bdx.cloudfront.net/THCHBLM_23-Full-Mezz_UHD-ta-IN-1759640270627/cmaf/H_264/THCHBLM_23-Full-Mezz_UHD-ta-IN/suntv-ST_THCHBLM_23-Full-Mezz_UHD-ta-IN.m3u8
+
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5cdf364f618524cf8b5170f897ff84ee/en/16x9/640x360/test_pic1741151668502_badged_1769403622328.jpg",Section 375
+https://d3sgzbosmwirao.cloudfront.net/video/d237883f8d15bd33fb24bc4b64952b2381f2ebf0ff7681bea108c0ec0606f0cc/2/hls/h264_high.m3u8
+
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/cc1f9610b1cc638cf9b60f305ee1b4d6/en/16x9/640x360/test_pic1759756568494_badged_1769403611475.jpg",Jailer
+https://d3sgzbosmwirao.cloudfront.net/video/d213b64bb52693c294545ff1fba4e2a385935f03037ca3c6159747c89003786c/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c2dc7967b20d067c12227043915c9f84/en/16x9/640x360/test_pic1738057912706_badged_1769403616486.jpg",Pushpa: The Rise (Hindi)
+https://d3sgzbosmwirao.cloudfront.net/video/0ec962650fcd8f71169027acfd1508efdfc6aec02638b4de4ad5a30d4bfcfece/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/04c78559cceaaa49ec1ce2764a5cd331/en/16x9/640x360/test_pic1741152118902_badged_1769403619385.jpg",Varisu (Hindi)
+https://d3sgzbosmwirao.cloudfront.net/video/4105ee407ba8d17611f55665c0f19bbd00710faefb4841a27d58846bfe51904f/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b805ccbdba1b3fc3b3651b360425fa09/en/16x9/640x360/test_pic1762767393838_badged_1769403625374.jpg",Pippa
+https://d3sgzbosmwirao.cloudfront.net/video/31c5c615eabfd1164f6b46f2a953d94c0efe959d8244b0a1d7c14c4887889551/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2c798dfbf33e7f20f43ac17c56ab7fe1/en/16x9/640x360/cc9038ba3c8dff105f6946666576f2d3_1920x1080.jpg",Satyaprem Ki Katha
+https://d3s0ximcru5bdx.cloudfront.net/SKK_23-Full-Mezz_UHD-hi-IN-1735902718936/cmaf/H_264/SKK_23-Full-Mezz_UHD-hi-IN/nadiadwalagrandsonentertainment-NGE_SKK_23-Full-Mezz_UHD-hi-IN.m3u8
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2c580670b2104d156e2d9a3fd42a413e/en/16x9/640x360/test_pic1736411388543_badged_1770181211865.jpg",Drishyam 2 (Hindi)
+https://d3sgzbosmwirao.cloudfront.net/video/8552e62f297ae4b896c8cc85393035cc087acb2e9ae5f9d27eca79f1c4848a3f/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b1bea43d6c4d7719e1926a82bee205eb/en/16x9/640x360/25fdd3575583ed9ea1881ba45106d1d9_1920x1080_badged_1769576412818.jpg",Rocky Aur Rani Kii Prem Kahaani
+https://d3s0ximcru5bdx.cloudfront.net/RARPK_23-Full-Mezz_HDR-hi-IN-1757652684424/cmaf/H_264/RARPK_23-Full-Mezz_HDR-hi-IN/viacom18-V18_RARPK_23-Full-Mezz_HDR-hi-IN.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/6a84f5380b2b1e61ace0a641113bf473/en/16x9/640x360/b4f879e3a2b48bf705b8e0adb563c44e_1920x1080.jpg",Bawaal
+https://d3s0ximcru5bdx.cloudfront.net/BAWAAL_23-Full-Mezz_HDR-hi-IN-R1-1755864322310/cmaf/H_264/BAWAAL_23-Full-Mezz_HDR-hi-IN-R1/nadiadwalagrandsonentertainment-NGE_BAWAAL_23-Full-Mezz_HDR-hi-IN-R1.m3u8
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/27e821ee1b5b74c34cbcf97a650cf2bd/en/16x9/640x360/test_pic1743153994440.jpg",Bachchhan Paandey
+https://d3s0ximcru5bdx.cloudfront.net/BP_22-Full-Mezz_HD-hi-IN-1735301217518/cmaf/H_264/BP_22-Full-Mezz_HD-hi-IN/nadiadwalagrandsonentertainment-NGE_BP_22-Full-Mezz_HD-hi-IN.m3u8
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/816e06add5f7ae65d996d3ec15cebe0c/en/16x9/640x360/d5469eb2a9dfea70dc98fdfc42d7dbc6_1920x1080_badged_1769403630113.jpg",Marjaavaan
+https://d3sgzbosmwirao.cloudfront.net/video/e5a162513f0e95c0c0e6e8155fc0db59feb3aaae428f345cc12eb79ca50a9942/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/048583d8c50235757c926f6b9dc75e6c/en/16x9/640x360/test_pic1749480782842.jpg",Bholaa
+https://d3s0ximcru5bdx.cloudfront.net/BHOLA_23-Full-Mezz_UHD-hi-IN-1740645321340/cmaf/H_264/BHOLA_23-Full-Mezz_UHD-hi-IN/ajaydevgnfilms-ADF_BHOLA_23-Full-Mezz_UHD-hi-IN.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a8bdecd36bb372da62179711fe436e3d/en/16x9/640x360/test_pic1741151600694.jpg",Prassthanam
+https://d3sgzbosmwirao.cloudfront.net/video/dc494bb58e3b580f7fea19fa1f38068252e7566cc89d8d5f4bd402ed488ff5e2/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5c5a43dc587ebee22a522cace53c24bd/en/16x9/640x360/test_pic1737645128483.jpg",Faster
+https://d3sgzbosmwirao.cloudfront.net/video/87d857576ace9717cd99351576e2e898c3636a52314e4a3e4244eb7453fd0856/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b97c2458de8109ef49ab87bd36f83d6f/en/16x9/640x360/test_pic1737645195830.jpg",Hellboy
+https://d3sgzbosmwirao.cloudfront.net/video/049a9482afd92144951c5e7b0c9800cc709589477fd0f83921097376e6a5f3c7/4/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/70a1556a1b820e288cdd6fcf0a154ebe/en/16x9/640x360/test_pic1738930931472.jpg",Sherni
+https://d3sgzbosmwirao.cloudfront.net/video/e6d3a59d6c570d4eebc48e9f5ad057af77a25197e00e753439fac0699a0f8d7a/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a608b6da7a1c6e78c4d3cc8d50c85658/en/16x9/640x360/test_pic1738931167121.jpg",Street Dancer 3D
+https://d3sgzbosmwirao.cloudfront.net/video/0767db948a1b8a4af70b6f14ff739e1ce2ae0c0da2fd8d6b15e0a2fdeb408ae7/4/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/263f56a5c5aa912bb842cf1b89159494/en/16x9/640x360/1c9b38e8e2b663293bb92cdee4d936cb_1920x1080.jpg",Mumbai Saga
+https://d3sgzbosmwirao.cloudfront.net/video/ecad6b0c026e6fee57dcbeafd6ba87a35a8007746697365740166e05d648dd13/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/d954fd0dfdf017c6d9384f5b97a327c2/en/16x9/640x360/test_pic1766044229366.jpg",Tiger Nageswara Rao
+https://d3sgzbosmwirao.cloudfront.net/video/1a7a21ed2e69b573e17fde8a728efb2473306ee5f2bf3e6da63a9770b0168660/1/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/9f3a74f8f9ce84c206589846cd62b418/en/16x9/640x360/test_pic1733483790135_badged_1734670827496.jpg",Dybbuk
+https://d3sgzbosmwirao.cloudfront.net/video/5d40b43064474b6db2e8595ff86854f0fffe5c554935571b0c049a2414151dd6/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8f9eb2b9dc634c8efe15be770eebfd1e/en/16x9/640x360/test_pic1736411108922.jpg",Ram Setu
+https://d3sgzbosmwirao.cloudfront.net/video/41b049676da65f4affa3776d262180db96d7515d375e0857efe80ed441e21ed2/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5718b304e9e69a0cce823b450ebe6103/en/16x9/640x360/test_pic1658147148241.jpg",Snakes (Hindi Dubbed)
+https://d3sgzbosmwirao.cloudfront.net/video/f781aa173ea73776372da6b52fc5e844/4/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/9cbeab40a2f957514d1ee1f40202210b/en/16x9/640x360/test_pic1738930558695.jpg",Batla House
+https://d3sgzbosmwirao.cloudfront.net/video/382165b3153251e8bc4a8f3d8aa2d65cc12da40c6203dcf0b27f25fb7afa83fd/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1a4e41018417e4eeb8d3bab03d986d43/en/16x9/640x360/test_pic1738930395877_badged_1750568411196.jpg",Runway 34
+https://d3sgzbosmwirao.cloudfront.net/video/02b85a60d59b809a972db86c1069d3540be0c792c4f4c6f1faa0949641652256/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/63ee4f0c1522633c6ef52fa60281ef36/en/16x9/640x360/test_pic1736418793724.jpg",V (Hindi)
+https://d3sgzbosmwirao.cloudfront.net/video/bf9aa2dfbf4e009442f53be6b75577c6f271369b65716d6f9e98ec4977bee99e/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c96205f4070baab89af6a34467a528dd/en/16x9/640x360/c43547f635e80f573d4e8ff46be70565_1920x1080.jpg",Satyameva Jayate 2
+https://d3sgzbosmwirao.cloudfront.net/video/e9f9a7a393d5db50ac99c15cc5487f0a995aaa431bbbb8362b171822f23aa1bf/4/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7da107ceabfc1eaade939a5c0cd4d70e/en/16x9/640x360/ea4151477c43c765689a8a8749319c45_1920x1080.jpg",Ki & Ka
+https://d3sgzbosmwirao.cloudfront.net/video/6e59026e1e7355bd88b392a07b089523933059ca1260fedac29dd86d740835dc/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a547ffd993b9c4f77a442a9ef16b854e/en/16x9/640x360/1e24ee15e07e6b68ff411e4a2e235628_1920x1080.jpg",Gehraiyaan
+https://d3sgzbosmwirao.cloudfront.net/video/c407de36293af7f911d9410ced72aa68e39cef422ecaa2ba7755403b350f971e/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b23fb87ecb7203f203e0aa713911969f/en/16x9/640x360/test_pic1766137049768.jpg",Secret Agent
+https://d3sgzbosmwirao.cloudfront.net/video/0e59c20ee6b64840063c5710dea1ab613a4808ddcd33f4ddf6ab92e6ae1259db/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/e7f35838b56bfd81c61be5448be4464b/en/16x9/640x360/test_pic1749482140108.jpg",Ponniyin Selvan Part 2 (Hindi)
+https://d3s0ximcru5bdx.cloudfront.net/POSE2_23_HIN-Full-Mezz_HD-hi-IN-R1-1740137576912/cmaf/H_264/POSE2_23_HIN-Full-Mezz_HD-hi-IN-R1/lyca-LYCA_POSE2_23_HIN-Full-Mezz_HD-hi-IN-R1.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3ac6ef72dc06e251ce5735b076a2f8cf/en/16x9/640x360/test_pic1753978332263.jpg",Train To Busan
+https://d3sgzbosmwirao.cloudfront.net/video/33c589bec0ad581342ed465c158580742c40f53bc5331d744940c038602972ba/1/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/cf4148eed2c0bbdde82aa8e3164f91c6/en/16x9/640x360/test_pic1648186039625.jpg",A Nun's Curse (Hindi Dubbed)
+https://d3sgzbosmwirao.cloudfront.net/video/355bb502110c22fd91808bbf3ebad1e2/5/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1f22b9aa8b8fba4dcface57ac7cf9812/en/16x9/640x360/test_pic1738076932454.jpg",Underworld: Rise Of The Lycans
+https://d3sgzbosmwirao.cloudfront.net/video/73f8820dda75f72b7330b9976b7927d568845790dced7479337a9381aa9d933a/5/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f5706515d2fc627e1d2be846d4009745/en/16x9/640x360/test_pic1739286160141.jpg",Ponniyin Selvan Part 1 (Hindi)
+https://d3sgzbosmwirao.cloudfront.net/video/dca88559d4fc4931b7a762d60f3cb9c732d359f021cb2b6b1dc481779d5025f6/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7da7a2cbf100daaa21be2f03fec368f1/en/16x9/640x360/test_pic1733756959968.jpg",Bell Bottom
+https://d3sgzbosmwirao.cloudfront.net/video/5e3c3833e72c4cb069dcd995e28de2c2ef894f20278cfa7a24a0263f19a625d6/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/e4ea433657055727c0956eff80f456f6/en/16x9/640x360/5e9fabfb76696ccaf6e186af8515e0d5_1920x1080.jpg",The Rundown
+https://d3sgzbosmwirao.cloudfront.net/video/6392ddec2e3487f0f3375bba0b1a3ae12d8d88f1e355cc77337cb0ffe2565615/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ddef8fe914ce12de9d9b410bfedcdf61/en/16x9/640x360/c78536b4a8ebf9fc94ae6e6386e4ca2a_1920x1080.jpg",Heropanti 2
+https://d3sgzbosmwirao.cloudfront.net/video/0b60d1d8f68b122e625c1b0b2086865f12c4471f57c441f2b0fcd0336082b133/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7f2ec5c458a17f6d1119f388b4b80b89/en/16x9/640x360/test_pic1741526756247.jpg",Anacondas: The Hunt For The Blood Orchid
+https://d3sgzbosmwirao.cloudfront.net/video/943f1bc7dbe12f0689526e971a06313eb6f446c4536c61928a52b733bad17f69/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c4fdfb25f4688c79a1d586ae1c53e86d/en/16x9/640x360/test_pic1737985187475.jpg",Monster Hunter
+https://d3sgzbosmwirao.cloudfront.net/video/6c6da9551583bb0266003f8da7706eef7f61cb03c57bcab3751cea6b361319da/6/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b8b685e85aa420405f1c9937493de60d/en/16x9/640x360/test_pic1738904228161.jpg",Resident Evil: The Final Chapter
+https://d3sgzbosmwirao.cloudfront.net/video/33200815c4cd63c2b45fbd5a3d08a65663c7ad5f35a414895683052dbedc525c/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/e1f0499e030110f1ea6c19e17e96082c/en/16x9/640x360/test_pic1733483322339.jpg",Sonu Ke Titu Ki Sweety
+https://d3sgzbosmwirao.cloudfront.net/video/4a0c88576a098a9f96ef61dfcb33b841fd630ac6117f4b24d240f1af99741234/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/dd4181fa347f559c23f85c72c5f91263/en/16x9/640x360/test_pic1766137912338.jpg",Double iSmart
+https://d3sgzbosmwirao.cloudfront.net/video/cbe0d36e596d39882d651fbb2d08d7c8a8261748840678f779e1d1c6f36c3502/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/23fac889cb1ea3f5ebe9bfdb05bee69d/en/16x9/640x360/test_pic1733482455181.jpg",Satyameva Jayate
+https://d3sgzbosmwirao.cloudfront.net/video/57e39ba7d01ca76c38b7ea976e1389fa87744f68ac61a22a046540145066a515/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/e450497dc2aac1955629275783bce849/en/16x9/640x360/test_pic1737361989828.jpg",Ghost Rider
+https://d3sgzbosmwirao.cloudfront.net/video/e6f123ef454948661a63e968daf99ddd7bc0ad69785a57a8c9947c866bb8bb3c/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8222f7180c9a9387e057d1f656fdc9cd/en/16x9/640x360/e16f20c02cdd09aafa1371e69cf56944_1920x1080.jpg",Coolie No. 1
+https://d3sgzbosmwirao.cloudfront.net/video/178f9b6d13dfa625eeb3a8d71401537ce7fc3a62218fb28801fb919888fec49c/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/61a2cd6657a0ab475c9588ff8c0200d0/en/16x9/640x360/test_pic1738931593172.jpg",Nawabzaade
+https://d3sgzbosmwirao.cloudfront.net/video/c8519b9f25da9e839221312f0bc789059a1d88c393a3de0b2e7fa31cc37f1b35/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5e851578fcacab219e06cb40a47be44f/en/16x9/640x360/test_pic1737362073017.jpg",Stuart Little 2
+https://d3sgzbosmwirao.cloudfront.net/video/b45851041de4a2f68ea6f55ea5697d5429018957754a58d61286721ad8104dc4/6/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/fcb7acb9e4a7d76f3b9172d600391ed3/en/16x9/640x360/test_pic1575644228149.jpg",Kaashmora (Hindi Dubbed)
+https://d3sgzbosmwirao.cloudfront.net/video/4b9ce4d682407476e5c285d8e9dd8f18a266c99c93784f5abd58836d71065f30/1/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4b6a7887a83d84ddb593b58a558a5cd4/en/16x9/640x360/test_pic1767005589281.jpg",Aranmanai 4
+https://d3sgzbosmwirao.cloudfront.net/video/33d64219ee58e03baeb15e5d931382b8bc11ea666d1b48db3e73317c3d4fbb1b/1/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1db8ac8b34b9971a82073cc53f8b3597/en/16x9/640x360/test_pic1733483098121.jpg",Jai Bhim (Hindi)
+https://d3sgzbosmwirao.cloudfront.net/video/bbb365980f269fbcd2fd0f4b47cdf82cf18cc519d5a98cc7a6bb470b5adc721e/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7f8626c8f553aa648c0a9f99952ce369/en/16x9/640x360/test_pic1738931092937.jpg",Chhorii
+https://d3sgzbosmwirao.cloudfront.net/video/55ddd91383495d9d63bf5bf9df4945bfd5510e8f4a144ad523f7ae8ffcb53898/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5fac1cba6cb2cbe60da66436156ab0ac/en/16x9/640x360/test_pic1737361704196.jpg",A.X.L.
+https://d3sgzbosmwirao.cloudfront.net/video/ac6ce04fd92f11b77a71f400e5a2dff11fafa9c215743263272c598e02a784f7/5/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7aca3e48726408076d74ac79f7bf73d7/en/16x9/640x360/6b5499ee1b102a35cd5005fdded38983_1920x1080.jpg",JugJugg Jeeyo
+https://d3sgzbosmwirao.cloudfront.net/video/2796b172645ae1a2dfe92c6a163410ebb91d45e2db7cd3d9cf73a2980fe7964d/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a08956778c46ed11fb9bd9a679eef252/en/16x9/640x360/test_pic1733482504503.jpg",Thank God
+https://d3sgzbosmwirao.cloudfront.net/video/a5766ffce2790d2433873b3e72e2053a90a72ec87af1f0f16decab13ca45a01f/5/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5ada24a5dc291a52e891513b7d05cb9e/en/16x9/640x360/d8c37a5c00ae7f2d6b6699833f087da1_1920x1080.jpg",The Boy
+https://d3sgzbosmwirao.cloudfront.net/video/be7da4b9b669eda2d8dc3b0d404d34bd183e1d4498c306815f960686f3e7da5a/3/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/bf18467e9550fd07f523052b70ad0f1e/en/16x9/640x360/744f7a863bd8cce8ffb8ffdd0383a3c3_1920x1080.jpg",Metro (Hindi Dubbed)
+https://d3sgzbosmwirao.cloudfront.net/video/4fbbaa5de9acdacb5dce04e000140672/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0eaa2c60c9c412f9ae07d1f110efd534/en/16x9/640x360/test_pic1734085820307.jpg",Zid
+https://d3sgzbosmwirao.cloudfront.net/video/c9110e910473739970d7a19e2370210df6d3b8a201bcae426f9779cb174526ec/4/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0824b942cecba2886443004138a8e860/en/16x9/640x360/0f9d0e374609ac5ba2c2acc26a9f0a25_1920x1080.jpg",World Famous Lover (Hindi Dubbed)
+https://d3sgzbosmwirao.cloudfront.net/video/a5183bbbcb5f03204d6ec106c21258abeb1ba8a84c9bac43e196f1b5811dee1e/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/49bbe01d5b85054fd112f6f08ab9230a/en/16x9/640x360/50fa240e108e814ef29a6d76d2018784_1920x1080.jpg",Mythica: A Quest For Heroes
+https://d3sgzbosmwirao.cloudfront.net/video/d175820788392d5340c77575a507e947fd94969504c8e2df0b937372f5023b2e/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/15b1565e53160901e8e95a2c7fe7fc14/en/16x9/640x360/test_pic1736413471792.jpg",Pagalpanti
+https://d3sgzbosmwirao.cloudfront.net/video/c2abd1368ab6a534b42a1c2ca3a37fea71ec2f247d81bed7e5e6c5765bac88e6/2/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/58a91907b5edd5bfa777066f91e7e472/en/16x9/640x360/7407a08c8baf9fc211788899de135748_1920x1080.jpg",Udaan
+https://d3sgzbosmwirao.cloudfront.net/video/8ce36ba10d295a0c65a5e25817c1064c35c4f2586f6264b6bc9f8dd89b9ef0d7/4/hls/h264_high.m3u8
+#EXTINF:-1 group-title="South" tvg-logo="https://qqcdnpictest.mxplay.com/pic/043719654a68d0c320afce00cc4fa37e/en/16x9/640x360/test_pic1738903884491.jpg",Resident Evil
+https://d3sgzbosmwirao.cloudfront.net/video/37d4b2caad0fdddbffda14fe9b470fb56eca
