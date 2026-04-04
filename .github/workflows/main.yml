@@ -16,6 +16,6 @@ jobs:
         run: |
           git config --global user.name "Bot"
           git config --global user.email "bot@github.com"
-          git add prr.m3u
+          git add min.m3u
           git commit -m "Auto Cookie Update" || exit 0
           git push
