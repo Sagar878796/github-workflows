@@ -18,7 +18,7 @@ jobs:
 
       - name: Generate M3U
         run: |
-          curl "http://filex.homes/get.php?username=1month&password=1month&type=m3u_plus" -o playlist.m3u
+          curl "http://lionboxiptv.xyz:80/get.php?username=dani79@dani79&password=dYcMjJV9bw&type=m3u_plus" -o playlist.m3u
 
       - name: Commit & Push
         run: |
