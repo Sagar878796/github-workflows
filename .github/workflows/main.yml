@@ -18,7 +18,7 @@ jobs:
 
       - name: Generate M3U
         run: |
-          curl "https://local.07live.workers.dev/playlist.m3u?user=gana-sunega&pass=krish-ka" -o playlist.m3u
+          curl "http://filex.homes/get.php?username=1month&password=1month&type=m3u_plus" -o playlist.m3u
 
       - name: Commit & Push
         run: |
