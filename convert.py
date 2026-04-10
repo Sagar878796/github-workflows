@@ -1,6 +1,6 @@
 import requests
 
-SOURCE = "http://filex.homes/get.php?username=1month&password=1month&type=m3u_plus"
+SOURCE = "http://lionboxiptv.xyz:80/get.php?username=dani79@dani79&password=dYcMjJV9bw&type=m3u_plus"
 PROXY = "https://sdtv-proxy.onrender.com"
 
 res = requests.get(SOURCE)
