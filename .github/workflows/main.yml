@@ -1,6 +1,9 @@
-name: Build M3U
+name: Auto M3U Generator
 
 on:
+  push:
+    paths:
+      - 'channels.txt'
   workflow_dispatch:
 
 jobs:
@@ -8,18 +11,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Create M3U
+      - name: Generate M3U file
         run: |
           echo "#EXTM3U" > playlist.m3u
-          echo "#EXTINF:-1,Live Stream" >> playlist.m3u
-          echo "https://calm-art-fcf9.prtstream.workers.dev" >> playlist.m3u
 
-      - name: Commit
+          while IFS=',' read -r name url
+          do
+            echo "#EXTINF:-1,$name" >> playlist.m3u
+            echo "$url" >> playlist.m3u
+          done < channels.txt
+
+      - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add playlist.m3u
-          git commit -m "update m3u" || echo "no changes"
+          git commit -m "Auto M3U update" || echo "No changes"
           git push
