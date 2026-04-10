@@ -1,16 +1,29 @@
-import requests
+name: Auto M3U Update
 
-url = "http://filex.me:8080/player_api.php?username=000003&password=000003&action=get_live_streams"
-data = requests.get(url).json()
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
 
-m3u = "#EXTM3U\n"
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-for ch in data:
-    name = ch["name"]
-    stream_id = ch["stream_id"]
-    m3u += f'#EXTINF:-1,{name}\n'
-    m3u += f'http://filex.me:8080/live/000003/000003/{stream_id}.ts\n'
+    permissions:
+      contents: write
 
-open("playlist.m3u", "w").write(m3u)
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-print("Done ✅")
+      - name: Generate M3U
+        run: |
+          curl "http://filex.me:8080/get.php?username=000003&password=000003&type=m3u_plus" -o playlist.m3u
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@example.com"
+          git add playlist.m3u
+          git commit -m "Update playlist" || echo "No changes"
+          git push
