@@ -18,7 +18,7 @@ jobs:
 
       - name: Generate M3U
         run: |
-          curl "http://filex.me:8080/get.php?username=000003&password=000003&type=m3u_plus" -o playlist.m3u
+          curl "http://filex.homes/get.php?username=1month&password=1month&type=m3u_plus" -o playlist.m3u
 
       - name: Commit & Push
         run: |
