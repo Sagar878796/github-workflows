@@ -1,9 +1,8 @@
-name: Auto M3U Generator
+name: Build M3U Playlist
 
 on:
-  push:
-    paths:
-      - 'channels.txt'
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -14,20 +13,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate M3U file
-        run: |
-          echo "#EXTM3U" > playlist.m3u
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
 
-          while IFS=',' read -r name url
-          do
-            echo "#EXTINF:-1,$name" >> playlist.m3u
-            echo "$url" >> playlist.m3u
-          done < channels.txt
+      - name: Run generator
+        run: python generate.py
 
-      - name: Commit & Push
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add playlist.m3u
-          git commit -m "Auto M3U update" || echo "No changes"
+          git add output/playlist.m3u
+          git commit -m "Auto update playlist" || echo "No changes"
           git push
